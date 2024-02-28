@@ -1,7 +1,7 @@
 # Calendar Component running on Storybook
 ## Installation 
 <sub>*ohgodohfuck*</sub><br>
-Trying to replicate my own work has become so confusing I'm no longer sure how it's running on my machine
+Trying to replicate my own work has become so confusing I'm no longer sure how it's running on my machine<br>
 The important files are:
 * chatty-calendar/src/exampleEvent.json
 	* JSON of the hardcoded mock event data

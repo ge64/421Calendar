@@ -20,3 +20,6 @@ Storybook installed the Next.js builder when I did it the first time, but that o
 
 "MyCalendar" is the calendar component with the color coded events.<br>
 "MyCalendar2" is just the calendar component 
+
+
+P.S. I fucked up my original Repo init so it didn't include all of the Stories commits but here it is anyway: [`chattyCalendar`](https://github.com/ge64/chattyCalendar/)
